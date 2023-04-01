@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
           DefaultButton(onPressed: (){},
           text: 'Teste',
           ),
-          const RegisterTextField(hintText: 'Teste',),
+          const RegisterTextField(labelText: 'Teste',),
         ],
       ),
     );
